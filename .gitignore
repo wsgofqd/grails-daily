@@ -7,3 +7,6 @@ plugins
 .slcache
 .idea
 out
+*.jar
+*.war
+*.class
